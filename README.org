@@ -7,8 +7,11 @@ update config.json for v2ray with subscription url
 #+end_src
 
 * Input
+
 need to create two file named 'config.json' and 'subscription.txt'
+
 config.json: you can generate this file as a template by any v2ray client
+
 subscription.txt: only the string of url of subsciption should be in this file.
 
 * Output
