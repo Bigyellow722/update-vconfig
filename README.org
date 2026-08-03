@@ -1,6 +1,7 @@
 * Description
 
-update config.json for v2ray with subscription url
++update config.json for v2ray with subscription url+
+update config.json for xray with subscription url, please install xray geoip.dat geosite.dat
 
 #+begin_src shell
   python update.py
